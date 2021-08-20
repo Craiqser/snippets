@@ -1,6 +1,6 @@
-# **[TypeScript](./Index.md) - Установка и обновление**
+# **[TypeScript](./index.md) - Установка и обновление**
 
-## Установка с помощью [NPM](../NPM/Index.md)
+## Установка с помощью [NPM](./../PackageManagers/NPM/index.md)
 
 Последняя стабильная версия:
 
